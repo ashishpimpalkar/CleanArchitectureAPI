@@ -1,0 +1,4 @@
+2020-05-28 15:47:27.875 +05:30 [Information] EmployeeController --> Get--> Method Start
+2020-05-28 15:47:29.998 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-05-28 15:47:30.008 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-05-28 15:47:30.836 +05:30 [Information] EmployeeController --> Get--> Method End

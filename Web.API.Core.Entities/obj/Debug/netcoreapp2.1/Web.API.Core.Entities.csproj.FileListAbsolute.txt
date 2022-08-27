@@ -1,0 +1,17 @@
+F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Core.Entities\bin\Debug\netcoreapp2.1\Web.API.Core.Entities.deps.json
+F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Core.Entities\bin\Debug\netcoreapp2.1\Web.API.Core.Entities.dll
+F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Core.Entities\bin\Debug\netcoreapp2.1\Web.API.Core.Entities.pdb
+F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Core.Entities\obj\Debug\netcoreapp2.1\Web.API.Core.Entities.csproj.CoreCompileInputs.cache
+F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Core.Entities\obj\Debug\netcoreapp2.1\Web.API.Core.Entities.AssemblyInfoInputs.cache
+F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Core.Entities\obj\Debug\netcoreapp2.1\Web.API.Core.Entities.AssemblyInfo.cs
+F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Core.Entities\obj\Debug\netcoreapp2.1\Web.API.Core.Entities.dll
+F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Core.Entities\obj\Debug\netcoreapp2.1\Web.API.Core.Entities.pdb
+F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Core.Entities\obj\Debug\netcoreapp2.1\Web.API.Core.Entities.csprojAssemblyReference.cache
+D:\Projects\POC\CleanArchitectureAPI-20211020T045215Z-001\CleanArchitectureAPI\Web.API.Core.Entities\bin\Debug\netcoreapp2.1\Web.API.Core.Entities.deps.json
+D:\Projects\POC\CleanArchitectureAPI-20211020T045215Z-001\CleanArchitectureAPI\Web.API.Core.Entities\bin\Debug\netcoreapp2.1\Web.API.Core.Entities.dll
+D:\Projects\POC\CleanArchitectureAPI-20211020T045215Z-001\CleanArchitectureAPI\Web.API.Core.Entities\bin\Debug\netcoreapp2.1\Web.API.Core.Entities.pdb
+D:\Projects\POC\CleanArchitectureAPI-20211020T045215Z-001\CleanArchitectureAPI\Web.API.Core.Entities\obj\Debug\netcoreapp2.1\Web.API.Core.Entities.AssemblyInfoInputs.cache
+D:\Projects\POC\CleanArchitectureAPI-20211020T045215Z-001\CleanArchitectureAPI\Web.API.Core.Entities\obj\Debug\netcoreapp2.1\Web.API.Core.Entities.AssemblyInfo.cs
+D:\Projects\POC\CleanArchitectureAPI-20211020T045215Z-001\CleanArchitectureAPI\Web.API.Core.Entities\obj\Debug\netcoreapp2.1\Web.API.Core.Entities.csproj.CoreCompileInputs.cache
+D:\Projects\POC\CleanArchitectureAPI-20211020T045215Z-001\CleanArchitectureAPI\Web.API.Core.Entities\obj\Debug\netcoreapp2.1\Web.API.Core.Entities.dll
+D:\Projects\POC\CleanArchitectureAPI-20211020T045215Z-001\CleanArchitectureAPI\Web.API.Core.Entities\obj\Debug\netcoreapp2.1\Web.API.Core.Entities.pdb

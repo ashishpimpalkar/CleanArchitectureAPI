@@ -1,0 +1,1264 @@
+2020-06-15 15:27:50.742 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 15:27:51.440 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 15:27:51.658 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 15:28:18.011 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 15:28:18.017 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 15:28:23.022 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 15:28:26.331 +05:30 [Error] Connection id ""0HM0H27KG586V"", Request id ""0HM0H27KG586V:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 15:30:46.362 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 15:30:46.392 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 15:30:46.396 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 15:30:46.944 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 15:30:46.990 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 15:30:51.993 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 15:30:52.060 +05:30 [Error] Connection id ""0HM0H27KG5870"", Request id ""0HM0H27KG5870:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 15:33:38.974 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 15:33:38.978 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 15:33:38.981 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 15:33:38.996 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 15:33:38.998 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 15:33:44.006 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 15:33:44.072 +05:30 [Error] Connection id ""0HM0H27KG5871"", Request id ""0HM0H27KG5871:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 15:34:22.573 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 15:34:22.576 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 15:34:22.656 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 15:34:22.764 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 15:34:22.768 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 15:34:27.773 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 15:34:27.858 +05:30 [Error] Connection id ""0HM0H27KG5871"", Request id ""0HM0H27KG5871:00000002"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 15:46:54.988 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 15:46:54.993 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 15:46:55.004 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 15:46:55.088 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 15:46:55.091 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 15:47:00.098 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 15:47:00.183 +05:30 [Error] Connection id ""0HM0H27KG5872"", Request id ""0HM0H27KG5872:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 15:47:07.321 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 15:47:07.326 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 15:47:07.330 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 15:47:07.351 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 15:47:07.369 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 15:47:12.374 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 15:47:12.481 +05:30 [Error] Connection id ""0HM0H27KG5872"", Request id ""0HM0H27KG5872:00000002"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 15:47:20.582 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 15:47:20.589 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 15:47:20.591 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 15:47:20.614 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 15:47:20.618 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 15:47:25.621 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 15:47:25.731 +05:30 [Error] Connection id ""0HM0H27KG5872"", Request id ""0HM0H27KG5872:00000003"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 15:49:57.023 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 15:49:57.033 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 15:49:57.042 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 15:49:57.074 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 15:49:57.078 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 15:50:02.080 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 15:50:02.141 +05:30 [Error] Connection id ""0HM0H27KG5873"", Request id ""0HM0H27KG5873:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 15:54:27.890 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 15:54:27.894 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 15:54:27.898 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 15:54:27.993 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 15:54:28.017 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 15:54:33.022 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 15:54:33.123 +05:30 [Error] Connection id ""0HM0H27KG5874"", Request id ""0HM0H27KG5874:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 15:54:46.994 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 15:54:47.000 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 15:54:47.005 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 15:54:47.024 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 15:54:47.027 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 15:54:52.047 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 15:54:52.252 +05:30 [Error] Connection id ""0HM0H27KG5874"", Request id ""0HM0H27KG5874:00000002"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 15:55:51.078 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 15:55:51.081 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 15:55:51.083 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 15:55:51.095 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 15:55:51.097 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 15:55:56.102 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 15:55:56.221 +05:30 [Error] Connection id ""0HM0H27KG5874"", Request id ""0HM0H27KG5874:00000003"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 15:56:44.622 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 15:56:44.626 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 15:56:44.630 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 15:56:44.639 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 15:56:44.644 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 15:56:49.698 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 15:56:49.900 +05:30 [Error] Connection id ""0HM0H27KG5874"", Request id ""0HM0H27KG5874:00000004"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 15:57:16.424 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 15:57:16.431 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 15:57:16.437 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 15:57:16.454 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 15:57:16.458 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 15:57:21.460 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 15:57:21.676 +05:30 [Error] Connection id ""0HM0H27KG5874"", Request id ""0HM0H27KG5874:00000005"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 15:57:21.963 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 15:57:21.976 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 15:57:22.001 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 15:57:22.306 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 15:57:22.311 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 15:57:27.316 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 15:57:27.404 +05:30 [Error] Connection id ""0HM0H27KG5875"", Request id ""0HM0H27KG5875:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 15:57:40.174 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 15:57:40.178 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 15:57:40.184 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 15:57:40.201 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 15:57:40.206 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 15:57:45.214 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 15:57:45.309 +05:30 [Error] Connection id ""0HM0H27KG5875"", Request id ""0HM0H27KG5875:00000002"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 15:58:59.285 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 15:58:59.291 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 15:58:59.294 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 15:58:59.306 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 15:58:59.309 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 15:59:04.315 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 15:59:04.377 +05:30 [Error] Connection id ""0HM0H27KG5876"", Request id ""0HM0H27KG5876:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 15:59:13.071 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 15:59:13.100 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 15:59:13.110 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 15:59:13.130 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 15:59:13.133 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 15:59:14.707 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 15:59:14.733 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 15:59:14.740 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 15:59:14.880 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 15:59:14.889 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 15:59:16.382 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 15:59:16.387 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 15:59:16.392 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 15:59:16.408 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 15:59:16.411 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 15:59:18.137 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 15:59:18.470 +05:30 [Error] Connection id ""0HM0H27KG5876"", Request id ""0HM0H27KG5876:00000002"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 15:59:19.902 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 15:59:20.118 +05:30 [Error] Connection id ""0HM0H27KG5877"", Request id ""0HM0H27KG5877:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 15:59:21.417 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 15:59:21.507 +05:30 [Error] Connection id ""0HM0H27KG5878"", Request id ""0HM0H27KG5878:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 15:59:34.952 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 15:59:34.958 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 15:59:34.962 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 15:59:35.004 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 15:59:35.038 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 15:59:40.045 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 15:59:40.261 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 15:59:40.267 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 15:59:40.271 +05:30 [Error] Connection id ""0HM0H27KG5877"", Request id ""0HM0H27KG5877:00000002"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 15:59:40.316 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 15:59:40.328 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 15:59:40.331 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 15:59:45.348 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 15:59:45.420 +05:30 [Error] Connection id ""0HM0H27KG5878"", Request id ""0HM0H27KG5878:00000002"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 15:59:58.559 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 15:59:58.563 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 15:59:58.568 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 15:59:58.590 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 15:59:58.635 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:00:01.507 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:00:01.510 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:00:01.512 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:00:01.525 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:00:01.528 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:00:02.381 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:00:02.385 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:00:02.388 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:00:02.412 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:00:02.416 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:00:03.664 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:00:03.758 +05:30 [Error] Connection id ""0HM0H27KG5877"", Request id ""0HM0H27KG5877:00000003"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:00:04.757 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:00:04.763 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:00:04.768 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:00:04.871 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:00:04.883 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:00:06.542 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:00:06.613 +05:30 [Error] Connection id ""0HM0H27KG5878"", Request id ""0HM0H27KG5878:00000003"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:00:07.420 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:00:07.472 +05:30 [Error] Connection id ""0HM0H27KG5879"", Request id ""0HM0H27KG5879:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:00:09.886 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:00:09.940 +05:30 [Error] Connection id ""0HM0H27KG587A"", Request id ""0HM0H27KG587A:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:01:44.242 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:01:44.247 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:01:44.254 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:01:44.312 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:01:44.324 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:01:49.331 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:01:49.442 +05:30 [Error] Connection id ""0HM0H27KG587B"", Request id ""0HM0H27KG587B:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:02:28.857 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:02:28.873 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:02:28.877 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:02:28.914 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:02:28.922 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:02:33.935 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:02:34.040 +05:30 [Error] Connection id ""0HM0H27KG587B"", Request id ""0HM0H27KG587B:00000002"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:03:31.127 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:03:31.160 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:03:31.163 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:03:31.186 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:03:31.193 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:03:36.419 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:03:36.847 +05:30 [Error] Connection id ""0HM0H27KG587B"", Request id ""0HM0H27KG587B:00000003"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:03:36.902 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:03:36.948 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:03:36.970 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:03:37.074 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:03:37.127 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:03:42.134 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:03:42.216 +05:30 [Error] Connection id ""0HM0H27KG587C"", Request id ""0HM0H27KG587C:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:08:37.707 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:08:37.711 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:08:37.715 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:08:37.803 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:08:37.805 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:08:42.812 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:08:42.898 +05:30 [Error] Connection id ""0HM0H27KG587D"", Request id ""0HM0H27KG587D:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:11:47.566 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:11:47.569 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:11:47.572 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:11:47.586 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:11:47.589 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:11:52.597 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:11:52.669 +05:30 [Error] Connection id ""0HM0H27KG587E"", Request id ""0HM0H27KG587E:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:12:05.978 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:12:05.984 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:12:05.989 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:12:06.081 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:12:06.085 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:12:11.090 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:12:11.177 +05:30 [Error] Connection id ""0HM0H27KG587E"", Request id ""0HM0H27KG587E:00000003"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:23:35.082 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:23:35.088 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:23:35.095 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:23:37.101 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:23:37.119 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:23:42.253 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:23:42.550 +05:30 [Error] Connection id ""0HM0H27KG587F"", Request id ""0HM0H27KG587F:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:27:24.033 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:27:24.036 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:27:24.039 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:27:24.146 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:27:24.151 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:27:29.160 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:27:29.261 +05:30 [Error] Connection id ""0HM0H27KG587G"", Request id ""0HM0H27KG587G:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:28:06.994 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:28:07.042 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:28:07.057 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:28:07.209 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:28:07.218 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:28:12.226 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:28:12.519 +05:30 [Error] Connection id ""0HM0H27KG587G"", Request id ""0HM0H27KG587G:00000002"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:28:18.513 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:28:18.517 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:28:18.520 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:28:18.531 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:28:18.534 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:28:23.584 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:28:23.874 +05:30 [Error] Connection id ""0HM0H27KG587G"", Request id ""0HM0H27KG587G:00000003"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:35:21.629 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:35:21.661 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:35:21.669 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:35:21.975 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:35:21.986 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:35:26.995 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:35:27.379 +05:30 [Error] Connection id ""0HM0H27KG587H"", Request id ""0HM0H27KG587H:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:35:48.948 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:35:48.953 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:35:48.961 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:35:49.012 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:35:49.019 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:35:54.022 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:35:54.109 +05:30 [Error] Connection id ""0HM0H27KG587H"", Request id ""0HM0H27KG587H:00000002"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:37:31.772 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:37:31.776 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:37:31.780 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:37:31.909 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:37:31.912 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:37:36.919 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:37:37.052 +05:30 [Error] Connection id ""0HM0H27KG587I"", Request id ""0HM0H27KG587I:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:37:48.606 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:37:48.654 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:37:48.713 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:37:48.762 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:37:48.790 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:37:53.793 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:37:53.939 +05:30 [Error] Connection id ""0HM0H27KG587I"", Request id ""0HM0H27KG587I:00000002"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:37:54.049 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:37:54.052 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:37:54.054 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:37:54.084 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:37:54.087 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:37:59.124 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:37:59.243 +05:30 [Error] Connection id ""0HM0H27KG587I"", Request id ""0HM0H27KG587I:00000003"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:42:59.516 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:42:59.519 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:42:59.525 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:42:59.680 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:42:59.686 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:43:04.695 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:43:04.794 +05:30 [Error] Connection id ""0HM0H27KG587J"", Request id ""0HM0H27KG587J:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:44:08.033 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:44:08.091 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:44:08.107 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:44:08.454 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:44:08.542 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:44:13.557 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:44:13.692 +05:30 [Error] Connection id ""0HM0H27KG587K"", Request id ""0HM0H27KG587K:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:47:26.099 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:47:26.127 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:47:26.134 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:47:26.482 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:47:26.492 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:47:31.499 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:47:33.867 +05:30 [Error] Connection id ""0HM0H27KG587L"", Request id ""0HM0H27KG587L:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:47:34.373 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:47:34.385 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:47:34.393 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:47:34.688 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:47:34.691 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:47:39.696 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:47:41.087 +05:30 [Error] Connection id ""0HM0H27KG587L"", Request id ""0HM0H27KG587L:00000002"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:48:02.556 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:48:02.560 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:48:02.564 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:48:02.616 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:48:02.629 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:48:07.633 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:48:07.752 +05:30 [Error] Connection id ""0HM0H27KG587L"", Request id ""0HM0H27KG587L:00000003"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:48:07.833 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:48:07.837 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:48:07.842 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:48:07.864 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:48:07.866 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:48:12.892 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:48:13.018 +05:30 [Error] Connection id ""0HM0H27KG587L"", Request id ""0HM0H27KG587L:00000004"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:49:31.375 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:49:31.439 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:49:31.447 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:49:31.578 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:49:31.582 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:49:36.587 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:49:36.757 +05:30 [Error] Connection id ""0HM0H27KG587M"", Request id ""0HM0H27KG587M:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:49:36.876 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:49:36.879 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:49:36.884 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:49:36.986 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:49:36.990 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:49:42.030 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:49:42.158 +05:30 [Error] Connection id ""0HM0H27KG587M"", Request id ""0HM0H27KG587M:00000002"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:53:46.100 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:53:46.112 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:53:46.128 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:53:46.196 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:53:46.199 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:53:51.236 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:53:51.473 +05:30 [Error] Connection id ""0HM0H27KG587N"", Request id ""0HM0H27KG587N:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:53:51.614 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:53:51.617 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:53:51.622 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:53:51.835 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:53:51.839 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:53:56.843 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:53:56.966 +05:30 [Error] Connection id ""0HM0H27KG587N"", Request id ""0HM0H27KG587N:00000002"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:54:30.150 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:54:30.155 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:54:30.176 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:54:30.252 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:54:30.254 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:54:35.259 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:54:35.362 +05:30 [Error] Connection id ""0HM0H27KG587N"", Request id ""0HM0H27KG587N:00000003"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:54:35.392 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:54:35.413 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:54:35.418 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:54:35.432 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:54:35.435 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:54:40.443 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:54:40.515 +05:30 [Error] Connection id ""0HM0H27KG587N"", Request id ""0HM0H27KG587N:00000004"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:55:40.857 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:55:40.891 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:55:40.904 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:55:41.170 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:55:41.183 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:55:46.194 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:55:46.364 +05:30 [Error] Connection id ""0HM0H27KG587O"", Request id ""0HM0H27KG587O:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:55:46.395 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:55:46.399 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:55:46.402 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:55:46.467 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:55:46.470 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:55:51.481 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:55:51.615 +05:30 [Error] Connection id ""0HM0H27KG587O"", Request id ""0HM0H27KG587O:00000002"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:56:07.646 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:56:07.654 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:56:07.674 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:56:07.810 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:56:07.819 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:56:12.832 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:56:12.961 +05:30 [Error] Connection id ""0HM0H27KG587O"", Request id ""0HM0H27KG587O:00000003"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:56:13.016 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:56:13.019 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:56:13.025 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:56:13.051 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:56:13.053 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:56:18.056 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:56:18.293 +05:30 [Error] Connection id ""0HM0H27KG587O"", Request id ""0HM0H27KG587O:00000004"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:56:29.109 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:56:29.131 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:56:29.173 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:56:29.218 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:56:29.227 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:56:34.232 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:56:34.345 +05:30 [Error] Connection id ""0HM0H27KG587O"", Request id ""0HM0H27KG587O:00000005"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:56:34.379 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:56:34.381 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:56:34.452 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:56:34.515 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:56:34.520 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:56:39.121 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:56:39.154 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:56:39.164 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:56:39.196 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:56:39.208 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:56:39.524 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:56:39.740 +05:30 [Error] Connection id ""0HM0H27KG587O"", Request id ""0HM0H27KG587O:00000006"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:56:44.213 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:56:44.453 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:56:44.477 +05:30 [Error] Connection id ""0HM0H27KG587P"", Request id ""0HM0H27KG587P:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:56:44.498 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:56:44.504 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:56:44.532 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:56:44.537 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:56:49.552 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:56:49.698 +05:30 [Error] Connection id ""0HM0H27KG587Q"", Request id ""0HM0H27KG587Q:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:58:02.198 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:58:02.207 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:58:02.214 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:58:02.234 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:58:02.237 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:58:07.240 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:58:07.450 +05:30 [Error] Connection id ""0HM0H27KG587R"", Request id ""0HM0H27KG587R:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 16:58:07.528 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 16:58:07.531 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 16:58:07.550 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 16:58:07.577 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 16:58:07.589 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 16:58:12.620 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 16:58:12.707 +05:30 [Error] Connection id ""0HM0H27KG587R"", Request id ""0HM0H27KG587R:00000002"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 17:03:03.249 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 17:03:03.253 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 17:03:03.256 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 17:03:03.349 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 17:03:03.353 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 17:03:08.361 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 17:03:15.206 +05:30 [Error] Connection id ""0HM0H27KG587S"", Request id ""0HM0H27KG587S:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 17:03:15.242 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 17:03:15.244 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 17:03:15.248 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 17:03:15.464 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 17:03:15.471 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 17:03:20.482 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 17:03:20.924 +05:30 [Error] Connection id ""0HM0H27KG587S"", Request id ""0HM0H27KG587S:00000002"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 17:24:40.850 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 17:24:40.856 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 17:24:41.065 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 17:24:44.527 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 17:24:44.696 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 17:24:49.710 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 17:24:50.046 +05:30 [Error] Connection id ""0HM0H27KG587T"", Request id ""0HM0H27KG587T:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 17:24:59.847 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 17:24:59.852 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 17:24:59.856 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 17:25:00.442 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 17:25:00.444 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 17:25:05.447 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 17:25:06.879 +05:30 [Error] Connection id ""0HM0H27KG587T"", Request id ""0HM0H27KG587T:00000002"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 17:25:38.559 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 17:25:38.563 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 17:25:38.601 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 17:25:38.816 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 17:25:38.931 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 17:25:44.051 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 17:25:44.422 +05:30 [Error] Connection id ""0HM0H27KG587T"", Request id ""0HM0H27KG587T:00000003"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 17:28:01.609 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 17:28:01.613 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 17:28:01.617 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 17:28:01.661 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 17:28:01.667 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 17:28:06.699 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 17:28:06.893 +05:30 [Error] Connection id ""0HM0H27KG587U"", Request id ""0HM0H27KG587U:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 17:29:08.959 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 17:29:08.963 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 17:29:08.970 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 17:29:09.019 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 17:29:09.022 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 17:29:14.027 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 17:29:14.175 +05:30 [Error] Connection id ""0HM0H27KG587V"", Request id ""0HM0H27KG587V:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 17:30:17.860 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 17:30:17.894 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 17:30:17.954 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 17:30:18.015 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 17:30:18.025 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 17:30:23.031 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 17:30:23.150 +05:30 [Error] Connection id ""0HM0H27KG5880"", Request id ""0HM0H27KG5880:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 17:30:51.299 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 17:30:51.303 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 17:30:51.306 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 17:30:51.350 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 17:30:51.353 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 17:30:56.364 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 17:30:56.563 +05:30 [Error] Connection id ""0HM0H27KG5880"", Request id ""0HM0H27KG5880:00000002"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 18:06:53.203 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 18:06:53.389 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 18:06:53.422 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 18:06:54.401 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 18:06:54.414 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 18:06:59.559 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 18:07:00.111 +05:30 [Error] Connection id ""0HM0H27KG5881"", Request id ""0HM0H27KG5881:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 18:09:33.275 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 18:09:33.323 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 18:09:33.398 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 18:09:33.495 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 18:09:33.511 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 18:09:38.519 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 18:09:42.557 +05:30 [Error] Connection id ""0HM0H27KG5882"", Request id ""0HM0H27KG5882:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 18:10:43.445 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 18:10:43.453 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 18:10:43.479 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 18:10:43.576 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 18:10:43.592 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 18:10:48.599 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 18:10:48.972 +05:30 [Error] Connection id ""0HM0H27KG5883"", Request id ""0HM0H27KG5883:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 18:10:53.483 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 18:10:53.488 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 18:10:54.051 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 18:10:54.199 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 18:10:54.208 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 18:10:59.217 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 18:10:59.402 +05:30 [Error] Connection id ""0HM0H27KG5883"", Request id ""0HM0H27KG5883:00000002"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 18:13:36.162 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 18:13:36.169 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 18:13:36.225 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 18:13:36.263 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 18:13:36.268 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 18:13:41.276 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 18:13:41.470 +05:30 [Error] Connection id ""0HM0H27KG5884"", Request id ""0HM0H27KG5884:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 18:16:35.658 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 18:16:35.662 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 18:16:35.671 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 18:16:35.797 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 18:16:35.809 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 18:16:40.815 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 18:16:41.023 +05:30 [Error] Connection id ""0HM0H27KG5885"", Request id ""0HM0H27KG5885:00000001"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)
+2020-06-15 18:16:48.931 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method Start
+2020-06-15 18:16:48.933 +05:30 [Information] DelegateRequest(EmployeeRequest) --> Start with Web.API.Core.RequestResponse.Request.EmployeeRequest
+2020-06-15 18:16:48.938 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method Start
+2020-06-15 18:16:48.989 +05:30 [Information] DelegateRequest(EmployeeRequest)-->GetEmployeeDetails--> Method End
+2020-06-15 18:16:48.996 +05:30 [Information] DelegateRequest(EmployeeRequest) --> End with Web.API.Core.RequestResponse.Response.EmployeeResponse
+2020-06-15 18:16:54.005 +05:30 [Information] EmployeeController --> AllEmployeeDetails--> Method End
+2020-06-15 18:16:54.121 +05:30 [Error] Connection id ""0HM0H27KG5885"", Request id ""0HM0H27KG5885:00000002"": An unhandled exception was thrown by the application.
+System.NotImplementedException: The method or operation is not implemented.
+   at Web.API.Infrastructure.Repository.GenericRepository`1.Dispose() in F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Infrastructure\Repository\GenericRepository.cs:line 43
+   at Autofac.Core.Disposer.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Disposer.cs:line 55
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Autofac.Core.Lifetime.LifetimeScope.Dispose(Boolean disposing) in C:\projects\autofac\src\Autofac\Core\Lifetime\LifetimeScope.cs:line 360
+   at Autofac.Util.Disposable.Dispose() in C:\projects\autofac\src\Autofac\Util\Disposable.cs:line 51
+   at Microsoft.AspNetCore.Hosting.Internal.RequestServicesFeature.Dispose()
+   at Microsoft.AspNetCore.Http.HttpResponse.<>c.<.cctor>b__30_1(Object disposable)
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpProtocol.FireOnCompletedAwaited(Stack`1 onCompleted)

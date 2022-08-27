@@ -1,0 +1,17 @@
+F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Core.RequestResponse\bin\Debug\netcoreapp2.1\Web.API.Core.RequestResponse.deps.json
+F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Core.RequestResponse\bin\Debug\netcoreapp2.1\Web.API.Core.RequestResponse.dll
+F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Core.RequestResponse\bin\Debug\netcoreapp2.1\Web.API.Core.RequestResponse.pdb
+F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Core.RequestResponse\obj\Debug\netcoreapp2.1\Web.API.Core.RequestResponse.csproj.CoreCompileInputs.cache
+F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Core.RequestResponse\obj\Debug\netcoreapp2.1\Web.API.Core.RequestResponse.AssemblyInfoInputs.cache
+F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Core.RequestResponse\obj\Debug\netcoreapp2.1\Web.API.Core.RequestResponse.AssemblyInfo.cs
+F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Core.RequestResponse\obj\Debug\netcoreapp2.1\Web.API.Core.RequestResponse.dll
+F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Core.RequestResponse\obj\Debug\netcoreapp2.1\Web.API.Core.RequestResponse.pdb
+F:\MVC\CleanArchitectureAPI\CleanArchitectureAPI\Web.API.Core.RequestResponse\obj\Debug\netcoreapp2.1\Web.API.Core.RequestResponse.csprojAssemblyReference.cache
+D:\Projects\POC\CleanArchitectureAPI-20211020T045215Z-001\CleanArchitectureAPI\Web.API.Core.RequestResponse\bin\Debug\netcoreapp2.1\Web.API.Core.RequestResponse.deps.json
+D:\Projects\POC\CleanArchitectureAPI-20211020T045215Z-001\CleanArchitectureAPI\Web.API.Core.RequestResponse\bin\Debug\netcoreapp2.1\Web.API.Core.RequestResponse.dll
+D:\Projects\POC\CleanArchitectureAPI-20211020T045215Z-001\CleanArchitectureAPI\Web.API.Core.RequestResponse\bin\Debug\netcoreapp2.1\Web.API.Core.RequestResponse.pdb
+D:\Projects\POC\CleanArchitectureAPI-20211020T045215Z-001\CleanArchitectureAPI\Web.API.Core.RequestResponse\obj\Debug\netcoreapp2.1\Web.API.Core.RequestResponse.AssemblyInfoInputs.cache
+D:\Projects\POC\CleanArchitectureAPI-20211020T045215Z-001\CleanArchitectureAPI\Web.API.Core.RequestResponse\obj\Debug\netcoreapp2.1\Web.API.Core.RequestResponse.AssemblyInfo.cs
+D:\Projects\POC\CleanArchitectureAPI-20211020T045215Z-001\CleanArchitectureAPI\Web.API.Core.RequestResponse\obj\Debug\netcoreapp2.1\Web.API.Core.RequestResponse.csproj.CoreCompileInputs.cache
+D:\Projects\POC\CleanArchitectureAPI-20211020T045215Z-001\CleanArchitectureAPI\Web.API.Core.RequestResponse\obj\Debug\netcoreapp2.1\Web.API.Core.RequestResponse.dll
+D:\Projects\POC\CleanArchitectureAPI-20211020T045215Z-001\CleanArchitectureAPI\Web.API.Core.RequestResponse\obj\Debug\netcoreapp2.1\Web.API.Core.RequestResponse.pdb

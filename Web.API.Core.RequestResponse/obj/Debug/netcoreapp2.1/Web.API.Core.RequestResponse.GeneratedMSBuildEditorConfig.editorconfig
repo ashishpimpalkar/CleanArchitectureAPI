@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = Web.API.Core.RequestResponse
+build_property.ProjectDir = D:\Projects\CleanArchitectureAPI\Web.API.Core.RequestResponse\
